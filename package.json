@@ -1,0 +1,6 @@
+{
+  "name": "wcag-color-contrast",
+  "version": "0.11",
+  "description": "Calculate WCAG contrast ratio",
+  "main": "./wcag-color-contrast.js"
+}

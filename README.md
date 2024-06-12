@@ -1,4 +1,4 @@
 wcag-color-contrast
 ===================
 
-Calculate contast ratio
+Calculate WCAG contrast ratio
